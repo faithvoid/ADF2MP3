@@ -7,5 +7,6 @@ Grand Theft Auto: Vice City .ADF to MP3 (or vice versa) converter using Python.
 - Profit!
 
 ## TODO:
+- Merge adf2mp3 and mp32adf
 - Output additional file formats (ie; WAV for PC, WMA for Xbox) using FFMPEG
 - Add game-specific & platform-specific conversion options (ie; convert VC radio stations to GTA 3)
