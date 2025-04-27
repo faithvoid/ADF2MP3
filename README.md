@@ -1,5 +1,5 @@
 # ADF2MP3
-Grand Theft Auto: Vice City .ADF audio file to MP3 converter using Python.
+Grand Theft Auto: Vice City .ADF to MP3 (or vice versa) converter using Python.
 
 ## Usage:
 - Copy "adf2mp3.py" to the folder containing the .ADF files you'd like to convert (or mp32adf.py if you want to convert MP3 files to VC-compatible ADF files)
